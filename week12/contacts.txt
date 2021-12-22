@@ -1,0 +1,4 @@
+franco t:10122:333444555:Torino, Via Torino
+licia n:10123:444555666:Novara, Via Novara
+bruno v:10124:555666777:Vercelli, Via Vercelli
+mirco p:10132:444555664:Pisa, Via Peso

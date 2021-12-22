@@ -1,0 +1,14 @@
+questo è un file di testo
+che usiamo per imparare a gestire i file.
+Il file di testo puo' contenere anche dei  numeri:
+12 13
+14 15
+
+e il suo contenuto puo' seguire un formato specifico
+ad esempio
+Nome Cognome numero tel
+Franco Fra 333444555
+Licia Li 345678844
+oppure
+Franco:Fra:333444555
+Licia:Li:345678844

@@ -1,0 +1,5 @@
+Cina 1339.725
+USA 298.444
+Russia 142.893
+Singapore 5.399
+Italia 61.990
